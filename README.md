@@ -1,13 +1,13 @@
-# Fara Dental
+# Brillo Dental
 
-Landing page de Fara Dental, clínica dental integral en Ciudad Juárez, Chihuahua.
+Landing page de Brillo Dental, clínica dental integral en Ciudad Juárez, Chihuahua.
 
 Sitio estático (HTML, CSS y JavaScript sin dependencias ni paso de compilación).
 
 ## Archivos
 
 - `index.html`: contenido de la página (header, inicio, horario, paso a paso, tratamientos, opiniones, equipo, la clínica, ubicación y footer).
-- `styles.css`: estilos y paleta (azul Fara `#1DA1E6`, azul profundo `#0A78B8`, gris línea `#CDD2D6`, gris niebla `#F2F4F5`, tinta `#1B2733`).
+- `styles.css`: estilos y paleta (azul Brillo `#1DA1E6`, azul profundo `#0A78B8`, gris línea `#CDD2D6`, gris niebla `#F2F4F5`, tinta `#1B2733`).
 - `script.js`: horario en vivo con la zona horaria de Ciudad Juárez, links de WhatsApp con mensaje pre-escrito, acordeón de tratamientos, trazo animado de la línea conductora y animaciones de aparición.
 - `assets/`: fotos reales de la clínica.
 

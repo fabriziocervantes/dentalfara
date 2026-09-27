@@ -11,10 +11,10 @@
 
   // WhatsApp links with the pre-written message
   document.querySelectorAll('[data-wa]').forEach(function (a) {
-    a.href = wa('Hola, me gustaría agendar una cita en Fara Dental.');
+    a.href = wa('Hola, me gustaría agendar una cita en Brillo Dental.');
   });
   document.querySelectorAll('[data-wa-topic]').forEach(function (a) {
-    a.href = wa('Hola, me gustaría información sobre ' + a.getAttribute('data-wa-topic') + ' en Fara Dental.');
+    a.href = wa('Hola, me gustaría información sobre ' + a.getAttribute('data-wa-topic') + ' en Brillo Dental.');
   });
 
   // ---- Live opening hours (Ciudad Juárez time) ----
